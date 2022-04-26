@@ -1,7 +1,7 @@
 chatroom Window
 A simple chat client and server created for personal purpose with  **Colyseus framework** and **Angular 7**.
 
-**How to run server application locally:**
+**How to run client application locally:**
 
 1. Git clone https://github.com/HimashaGallage/chatApplication.git
 2. cd client
@@ -10,7 +10,7 @@ A simple chat client and server created for personal purpose with  **Colyseus fr
  client app start on `http://localhost:4200/`
 
 
-**How to run client application locally:**
+**How to run server application locally:**
 
 1. Git clone https://github.com/HimashaGallage/chatApplication.git
 2. cd server
