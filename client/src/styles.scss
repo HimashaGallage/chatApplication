@@ -1,0 +1,58 @@
+body{
+    overflow: hidden;
+    height: 100%;
+    color: #58B19F;
+}
+
+p { 
+    color : black;
+    padding-left: 2%;   
+}
+div {
+    margin-left: 5%;
+    margin-top: 5%;
+    overflow-y: hidden; 
+}
+
+.chat-room-div {
+    background-color: #CAD3C8;
+    color: white;
+    border: 2px solid #CAD3C8;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    overflow-y: scroll; 
+    height: 450px;
+    max-height: 75%;
+    border-radius: 40px 40px 0px 0px;
+  }
+
+.message-input-div {
+    background-color: #2C3A47;
+    color: white;
+    border: 2px solid #2C3A47;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-bottom: 2%;
+    overflow-y: hidden; 
+    border-radius: 0px 0px 40px 40px;
+    margin-top: 0px;
+}
+
+.user-name-span {
+    color: #182C61;
+}
+
+.msg-span {
+    color: #3B3B98;
+}
+
+.input-class {
+    width:70%;
+    padding:20px;
+  }
+
+.input-btn {
+    width: 20%;
+    padding: 20px;
+}

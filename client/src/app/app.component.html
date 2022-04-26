@@ -1,0 +1,10 @@
+<div class="chat-room-div" #scrollMe [scrollTop]="scrollMe.scrollHeight">
+    <p *ngFor="let message of messages"><span class="user-name-span">{{message.split(":")[0]}} :</span>
+      <span class="msg-span">{{message.split(":")[1]}}</span> </p>
+</div>
+<div class="message-input-div">
+  <div (keydown.enter)="onSubmit()">
+    <input class="input-class" type="text"  [formControl]="text">
+    <button (click)="onSubmit()" type="button" class="input-btn">send</button>
+  </div>
+</div>
