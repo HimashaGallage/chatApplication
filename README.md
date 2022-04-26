@@ -1,6 +1,6 @@
 # chatApplication
 
-A simple chat client and server craeted for personal purpose. with  **Colyseus framework** and **Angular 7**.
+A simple chat client and server created for personal purpose with  **Colyseus framework** and **Angular 7**.
 
 **How to run server application locally:**
 
