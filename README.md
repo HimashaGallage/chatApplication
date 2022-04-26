@@ -1,16 +1,18 @@
 # chatApplication
 
-A simple chat client and server. 
+A simple chat client and server craeted for personal purpose. with  **Colyseus framework** and **Angular 7**.
 
-How to running locally:
+**How to run server application locally:**
 
-git clone 
-cd 
+1. Git clone 
+2. cd 
+3. npm install
+4. npm start
 
-cd client
-npm install
-npm start
 
-cd server
-npm install
-npm start
+**How to run client application locally:**
+
+1. Git clone 
+2. cd 
+3. npm install
+4. npm start
