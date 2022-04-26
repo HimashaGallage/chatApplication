@@ -8,6 +8,7 @@ A simple chat client and server created for personal purpose with  **Colyseus fr
 2. cd client
 3. npm install
 4. npm start
+
  client app start on `http://localhost:4200/`
 
 
@@ -17,4 +18,5 @@ A simple chat client and server created for personal purpose with  **Colyseus fr
 2. cd server
 3. npm install
 4. npm start
+
 server start on `http://localhost:2657/`
