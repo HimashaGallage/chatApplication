@@ -1,7 +1,7 @@
 body{
     overflow: hidden;
     height: 100%;
-    color: #58B19F;
+    background-color: #15303A !important;
 }
 
 p { 
@@ -15,22 +15,22 @@ div {
 }
 
 .chat-room-div {
-    background-color: #CAD3C8;
+    background-color: #183642;
     color: white;
-    border: 2px solid #CAD3C8;
+    border: 2px solid #183642;
     margin-top: 2%;
     margin-left: 2%;
     margin-right: 2%;
     overflow-y: scroll; 
-    height: 450px;
-    max-height: 75%;
+    height: 500px;
+    max-height: 80%;
     border-radius: 40px 40px 0px 0px;
+    padding: 2%;
   }
-
 .message-input-div {
-    background-color: #2C3A47;
+    background-color: #313D5A;
     color: white;
-    border: 2px solid #2C3A47;
+    border: 2px solid #313D5A;
     margin-left: 2%;
     margin-right: 2%;
     padding-bottom: 2%;
@@ -40,19 +40,29 @@ div {
 }
 
 .user-name-span {
-    color: #182C61;
+    color: #cbc5ea;
+    margin-right: 1%;
 }
 
 .msg-span {
-    color: #3B3B98;
+    color: #cbc5ea;
 }
 
 .input-class {
     width:70%;
     padding:20px;
+    background-color: #3b4a6d;
+    margin-right: 1%;
+    color: white;
   }
 
 .input-btn {
     width: 20%;
     padding: 20px;
+}
+
+.btn-success {
+    background-color: #3b4a6d !important;
+    padding: 2% 4% 2% 4% !important;
+
 }
