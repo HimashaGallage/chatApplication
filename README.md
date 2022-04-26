@@ -1,4 +1,4 @@
-chatroom Window
+Chatroom Window
 A simple chat client and server created for personal purpose with  **Colyseus framework** and **Angular 7**.
 
 **How to run client application locally:**
